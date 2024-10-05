@@ -91,9 +91,7 @@ body {
   bottom: -20%;
   font-size: 30px;
   padding: 5px;
-  border-top: grey dashed;
-  border-bottom: grey dashed;
-  border-radius: 60px;
+
 }
 
 #content-left h5 {
